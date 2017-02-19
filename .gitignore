@@ -6,6 +6,7 @@ __pycache__/
 
 
 scraper/secret.py
+secrey.py
 
 # C extensions
 *.so
